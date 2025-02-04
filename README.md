@@ -1,6 +1,6 @@
 # AI Journal - Chatbot App
 ## Final Project for Vanderbilt Prompt Engineering Course
-[Certificate]https://www.coursera.org/account/accomplishments/verify/QU7I7R0319V7
+[Certificate](https://www.coursera.org/account/accomplishments/verify/QU7I7R0319V7)
 
 ## Overview
 AI Journal is an iOS-based chatbot application that allows users to share their thoughts and receive AI-generated advice. The app ensures that each new session starts with a fresh chat while preserving chat history. This project serves as a foundational example of building a chatbot experience with SwiftUI and Combine.
